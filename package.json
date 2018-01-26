@@ -1,0 +1,17 @@
+{
+  "name": "ETHVOTE",
+  "version": "1.0.0",
+  "description": "Ethereum Hello World voting app",
+  "main": "index.js",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.19",
+    "web3": "^0.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testrpc"
+  },
+  "author": "",
+  "license": "MIT"
+}
